@@ -14,3 +14,5 @@ int main()
 **float evaluate(const std::string& expression)**  
 Evaluates an arithmetic expression.
 > See cpp file isOperator() for list of operators
+
+## E
